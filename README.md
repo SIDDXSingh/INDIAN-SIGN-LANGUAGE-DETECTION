@@ -35,3 +35,9 @@ The code uses contour detection for solving the problem statement. Contours are 
 * As the code’s motto is to detect language for both the hands it needs a picture of hand to be used by user making  a sign of ‘FIVE’.
 * The code calculates the angle between the extreme points of the extreme point in the horizontal direction and if it is greater then zero then the frame is flipped as the condition feeded to the code works for left hand.
 * However the results are not that perfect because of the instability of the hull, but each sign is detected correctly while executing.
+
+Contributers:
+1. [Prathmesh Ringe](https://github.com/PSR794)
+2. [Moskhoda Barhate](https://github.com/mokshada14)
+3. [Himanshu Mahajan](https://github.com/vondar)
+4. [Siddharth Singh](https://github.com/SIDDXSingh/)
